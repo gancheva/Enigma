@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigma", "enigma.csproj", "{5BFAADDB-87F3-444D-96F1-AFEDE9F6C91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigma-test", "..\enigma-test\enigma-test.csproj", "{4F09521E-3DBB-4B64-9807-8BC4AC1385F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFAADDB-87F3-444D-96F1-AFEDE9F6C91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFAADDB-87F3-444D-96F1-AFEDE9F6C91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFAADDB-87F3-444D-96F1-AFEDE9F6C91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFAADDB-87F3-444D-96F1-AFEDE9F6C91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F09521E-3DBB-4B64-9807-8BC4AC1385F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F09521E-3DBB-4B64-9807-8BC4AC1385F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F09521E-3DBB-4B64-9807-8BC4AC1385F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F09521E-3DBB-4B64-9807-8BC4AC1385F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
